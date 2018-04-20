@@ -1,4 +1,5 @@
 body {
+  position: relative;
   background: aqua ;
-  background-position: left;
+  margin-left: auto;
 }
